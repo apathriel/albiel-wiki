@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7692d873d3c98a75",
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fadfa7563fbe7fd",
+  "active": "81c7da6fb540edf1",
   "lastOpenFiles": [
     "New Bitmap image.bmp",
     "New folder",
