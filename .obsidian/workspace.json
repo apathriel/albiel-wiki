@@ -31,14 +31,14 @@
             "id": "22f49b61ff0dd119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -214,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81c7da6fb540edf1",
+  "active": "22f49b61ff0dd119",
   "lastOpenFiles": [
+    "Meta XR SDK Building Blocks.md",
+    "Welcome.md",
     "New Bitmap image.bmp",
-    "New folder",
-    "Welcome.md"
+    "New folder"
   ]
 }
